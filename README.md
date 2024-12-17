@@ -1,5 +1,8 @@
 # ViGi: A camera surveillance system
 
+This is a final project for University of London [BSc Computer Science programme](https://www.london.ac.uk/study/courses/undergraduate/bsc-computer-science).
+Consult [Report.pdf](/Report.pdf) for more information.
+
 ## Features
 
 * Multiple camera support
